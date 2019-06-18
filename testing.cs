@@ -10,7 +10,7 @@ namespace Program
         static void Main(string[] args)
         {
             int num, sum = 0, r;
-            Console.WriteLine("Enter a Number : ");
+            Console.WriteLine("Enter a Numbers : ");
             num = int.Parse(Console.ReadLine());
             while (num != 0)
             {
