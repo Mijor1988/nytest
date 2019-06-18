@@ -14,7 +14,6 @@ namespace Program
             num = int.Parse(Console.ReadLine());
             while (num != 0)
             {
-                string s = "davs";
                 string s = "hallo";
                 r = num % 10;
                 num = num / 10;
