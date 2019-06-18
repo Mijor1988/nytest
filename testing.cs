@@ -15,6 +15,7 @@ namespace Program
             while (num != 0)
             {
                 string s = "davs";
+                string s = "hejsdd";
                 r = num % 10;
                 num = num / 10;
                 sum = sum + r;
