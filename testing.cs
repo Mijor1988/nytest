@@ -14,7 +14,7 @@ namespace Program
             num = int.Parse(Console.ReadLine());
             while (num != 0)
             {
-                string s = "hejsan";
+                string s = "hejsdd";
                 r = num % 10;
                 num = num / 10;
                 sum = sum + r;
